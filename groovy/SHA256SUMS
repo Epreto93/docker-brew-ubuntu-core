@@ -1,0 +1,5 @@
+fc1bce6fa01fa08df638a16f0b297ff422bc95b0d1b30b4c019d77f14780ce07 *ubuntu-groovy-core-cloudimg-amd64-root.tar.gz
+e60d95607d504ebc3f6472fba7163dd29765e1a43890eefcdfe10e8e98fa043a *ubuntu-groovy-core-cloudimg-arm64-root.tar.gz
+649badcea26892e311dbc2961df16a801d04969a47e41fead3fe4341e3a3387b *ubuntu-groovy-core-cloudimg-armhf-root.tar.gz
+4a7e1201cb700923985c1edb3e9641af097972658756a6ef5a741196d37ba353 *ubuntu-groovy-core-cloudimg-ppc64el-root.tar.gz
+49dbc1ec8dc33925544e702afa75b4f2444137927327646f5124bd53fa1537b3 *ubuntu-groovy-core-cloudimg-s390x-root.tar.gz
